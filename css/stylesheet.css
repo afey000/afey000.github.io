@@ -5,3 +5,10 @@ body{
 h1,h4,p{
   text-align: center;
 }
+.boom{
+  image-orientation: center;
+  align-items: center;
+  border-radius: 100%;
+  border-color: red;
+  border-width: thick;
+}
